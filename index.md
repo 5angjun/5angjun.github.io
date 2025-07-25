@@ -30,9 +30,8 @@ I am especially interested in fuzzing, program analysis, and automatic bug findi
 
 ## Education
 
-**`2024~` M.S. Candidate** *Gradute School of Information Security* [**@KAIST SoftSec**](https://softsec.kaist.ac.kr/) <br>
-
-**`2020~2024` B.S.** *Computer Science* [**@SSU**](http://cse.ssu.ac.kr/)
+- **`2024~` M.S. Candidate** *Gradute School of Information Security* [**@KAIST SoftSec**](https://softsec.kaist.ac.kr/)
+- **`2020~2024` B.S.** *Computer Science* [**@SSU**](http://cse.ssu.ac.kr/)
 
 ---
 
