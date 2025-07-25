@@ -12,7 +12,7 @@ Here is **SangJun Park**.<br>
 
 I am a master's student at KAIST, advised by [Prof. Sang Kil Cha](https://softsec.kaist.ac.kr/~sangkilc/).<br>
 
-My research focuses on developing program analysis systems, particularly in the areas of software engineering and cyber security.<br>
+My research focuses on developing program analysis systems, particularly in the areas of **Software Engineering** and **Cyber Security**.<br>
 
 <div style="clear: both;"></div>
 
