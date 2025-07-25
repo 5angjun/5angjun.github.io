@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://test.com/caihanlin.jpg" class="floatpic">
+<img src="/jjangu.gif" class="floatpic">
 Hello 안녕하세요 こんにちは 你好
 Here is **SangJun Park**.<br>
 
