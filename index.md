@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/jjangu.gif" class="floatpic">
+<img src="/images/jjangu.gif" class="floatpic">
 
 Hello 안녕하세요 こんにちは 你好<br><br>
 
