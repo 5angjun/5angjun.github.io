@@ -8,9 +8,9 @@ layout: page
 
 Hello 안녕하세요 こんにちは 你好<br><br>
 
-Here is **SangJun Park**.<br><br>
+Here is **SangJun Park**.<br>
 
-I am a master's student at KAIST, supervised by [Prof. Sang Kil Cha](https://softsec.kaist.ac.kr/~sangkilc/).<br><br>
+I am a master's student at KAIST, supervised by [Prof. Sang Kil Cha](https://softsec.kaist.ac.kr/~sangkilc/).<br>
 
 My research focuses on developing program analysis systems, particularly in the areas of software engineering and cyber security.<br>
 
@@ -74,7 +74,7 @@ My research focuses on developing program analysis systems, particularly in the 
 
 ## Blog
 
-[https://sangjun.xyz/](https://sangjun.xyz/)<br>
+[https://sangjun.xyz/](https://sangjun.xyz/)<br><br>
 
 Copyright ⓒ Sangjun All rights reserved.
 <br>
