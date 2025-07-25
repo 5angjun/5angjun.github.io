@@ -43,7 +43,8 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-
+  - title: Blogs
+    url: https://sangjun.xyz
 
 # --------------------------------------------------
 #  BUILD & RENDERING OPTIONS
