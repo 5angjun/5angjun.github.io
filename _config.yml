@@ -7,7 +7,7 @@ description: Two roads diverged in woods, I took the one less traveled by.  # St
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://sangjunpark.com
+url: https://sangjun.xyz
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
@@ -44,7 +44,7 @@ links:
   - title: About Me
     url: /
   - title: Blogs
-    url: https://sangjun.xyz
+    url: /
 
 # --------------------------------------------------
 #  BUILD & RENDERING OPTIONS
