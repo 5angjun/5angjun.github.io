@@ -9,9 +9,9 @@ Hello 안녕하세요 こんにちは 你好<br>
 
 Here is **SangJun Park**.<br>
 
-I am a master's student at KAIST, supervised by [Prof. Sang Kil Cha](https://softsec.kaist.ac.kr/~sangkilc/).
+I am a master's student at KAIST, supervised by [Prof. Sang Kil Cha](https://softsec.kaist.ac.kr/~sangkilc/).<br>
 
-My research focuses on developing program analysis systems, particularly in the areas of software engineering and cyber security.
+My research focuses on developing program analysis systems, particularly in the areas of software engineering and cyber security.<br>
 I am especially interested in fuzzing, program analysis, and automatic bug finding.
 
 — **sangjuns [at] kaist.ac.kr**
@@ -27,14 +27,14 @@ I am especially interested in fuzzing, program analysis, and automatic bug findi
 
 ## Education
 
-**`2024~` M.S. Candidate** *Gradute School of Information Security* [**@KAIST SoftSec**](https://softsec.kaist.ac.kr/)
+**`2024~` M.S. Candidate** *Gradute School of Information Security* [**@KAIST SoftSec**](https://softsec.kaist.ac.kr/) <br>
 
 **`2020~2024` B.S.** *Computer Science* [**@SSU**](http://cse.ssu.ac.kr/)
 
 ---
 
 ## **📹 Talks**
-- **CodeBlue2024** **[Link](https://note.com/code_blue/n/n994e308f2f26/)** **[Slides](https://github.com/0dayResearchLab/msFuzz/blob/master/CODEBLUE2024.pdf)** **[Code](https://github.com/0dayResearchLab/msFuzz)** **[_Video_](https://www.youtube.com/watch?v=90ET7F3-T7I)**
+- **CodeBlue2024** [Link](https://note.com/code_blue/n/n994e308f2f26/) [Slides](https://github.com/0dayResearchLab/msFuzz/blob/master/CODEBLUE2024.pdf) [Code](https://github.com/0dayResearchLab/msFuzz) [_Video_](https://www.youtube.com/watch?v=90ET7F3-T7I)
 
 ---
 
