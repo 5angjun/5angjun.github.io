@@ -74,8 +74,10 @@ My research focuses on developing program analysis systems, particularly in the 
 
 ## Blog
 
-[https://sangjun.xyz/](https://sangjun.xyz/)<br><br>
+[https://sangjun.xyz/](https://sangjun.xyz/)<br>
+
+---
 
 Copyright ⓒ Sangjun All rights reserved.
-<br>
+
 
